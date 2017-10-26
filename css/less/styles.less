@@ -1,0 +1,203 @@
+//out:../styles.css,sourcemap:fasle,compress:true
+@gutter:15px;
+@black:#161823;
+@white:#fff;
+@gray:#808080;
+
+html {
+  background: @black;
+}
+body,h1,h2,p,ul,li {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+body {
+  background: @white;
+  font:16px/1.8 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: @black;
+}
+a {
+  color: @black;
+  text-decoration: none;
+  &:hover {
+    color: lighten(@black, 10%);
+  }
+}
+
+.hidden {
+  display: none !important;
+}
+
+.container,.container-fluid {
+  padding: 0 @gutter;
+}
+
+/* ---=*--*=*-=*-=-*-=* ^.^ ---- top ---- ^.^ ---=*--*=*-=*-=-*-=* */
+.top {
+  display: none;
+  background: @black;
+  color: @gray;
+  font-size: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+/* ---=*--*=*-=*-=-*-=* ^.^ ---- header ---- ^.^ ---=*--*=*-=*-=-*-=* */
+.header {
+  padding-top: @gutter;
+  padding-bottom: @gutter;
+  border-top: 5px solid @black;
+  border-bottom: 1px solid darken(@white,10%);
+  margin-bottom: @gutter;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.06);
+}
+
+/* ---=*--*=*-=*-=-*-=* ^.^ ---- logo ---- ^.^ ---=*--*=*-=*-=-*-=* */
+.logo {
+  overflow: hidden;
+  line-height: 30px;
+  .logo-txt {
+    float: left;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    em {
+      background: @black;
+      color: @white;
+      padding: 0 0.3em;
+      border-radius: 3px;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      float: left;
+      margin-right: 2px;
+      letter-spacing: -1px;
+    }
+  }
+  small {
+    font-weight: normal;
+    font-size: 16px;
+    margin-left: 1em;
+    color: @gray;
+    letter-spacing: 1px;
+  }
+}
+
+/* ---=*--*=*-=*-=-*-=* ^.^ ---- footer ---- ^.^ ---=*--*=*-=*-=-*-=* */
+.footer {
+  background: lighten(@black,5%);
+  color: @gray;
+  font-size: 14px;
+  padding-top: @gutter;
+  padding-bottom: @gutter;
+  margin-top: @gutter;
+  a {
+    color: @gray;
+    text-decoration: none;
+  }
+}
+
+/* ---=*--*=*-=*-=-*-=* ^.^ ---- content ---- ^.^ ---=*--*=*-=*-=-*-=* */
+.primary-menu {
+  padding: @gutter 0;
+  li {
+    a {
+      padding: 5px 1em;
+      display: block;
+      border-bottom: 1px dashed darken(@white, 10%);
+      &:hover {
+        background: darken(@white, 10%);
+        border-bottom-style: solid;
+        border-radius: 10px;
+      }
+      &:before {
+        content: '- ';
+      }
+    }
+  }
+}
+
+.title {
+  line-height: 1;
+  border-bottom: 3px solid darken(@white, 10%);
+  padding: @gutter 0;
+  margin-bottom: @gutter;
+  color: lighten(@black, 10%);
+  font-weight: normal;
+}
+.item {
+  padding: @gutter 0;
+  margin-bottom: @gutter;
+  position: relative;
+  .desc {
+    padding: 1em;
+    border: 1px dashed darken(@white, 10%);
+    color: @gray;
+  }
+  .author {
+    display: inline-block;
+    padding: 0 10px;
+    border-radius: 2em;
+    //background: darken(@white, 3%);
+    color: @gray;
+    font-size: 14px;
+    margin-left: 1em;
+    &:before {
+      content:'--@';
+    }
+  }
+}
+.sidebar {
+  margin-top: @gutter*2;
+  li {
+    margin-bottom: 5px;
+    line-height: 1;
+    font-size: 14px;
+    a,
+    span {
+      display: block;
+      padding: @gutter;
+      border-radius: 5px;
+      background: darken(@white, 3%);
+      cursor: pointer;
+      &:hover {
+        background: darken(@white, 10%);
+      }
+      &:before {
+        content: '- ';
+      }
+    }
+  }
+}
+
+@media (min-width:768px) {
+  .top {
+    display: block;
+  }
+  .header {
+    border-top: none;
+  }
+}
+
+@media (min-width:992px) {
+  .container {
+    margin: 0 auto;
+    width: 950px;
+  }
+  .sidebar {
+    float: left;
+    width: 200px;
+  }
+  .has-sidebar .main {
+    margin-left: 215px;
+  }
+}
+
+@media (min-width:1200px) {
+  .container {
+    width: 1140px;
+  }
+}
