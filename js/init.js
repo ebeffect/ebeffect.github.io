@@ -60,7 +60,7 @@
   $(document).on('click','.auto-scroll',function () {
     var id=$(this).attr('data-id');
     var offset=$('#'+id).offset();
-    $('html').scrollTop(offset.top);
-    console.dir(id);
+    $('html,body').scrollTop(offset.top);
+    alert(offset.top);
   });
 })(jQuery);
