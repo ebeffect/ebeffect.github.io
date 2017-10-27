@@ -3,11 +3,32 @@
     "title":"CSS基础形状",
     "items":[
       {
-        "title":"各种三角形",
+        "title":"三角形",
         "description":"利用border的四个方向上的宽度和是否透明形成不同的三角形.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
         "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/es337u0v/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+      },
+      {
+        "title":"矩形",
+        "description":"利用border,width,height,padding来形成矩形.",
+        "author":"Lizus",
+        "author_url":"http://www.lizus.com",
+        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/b9Lqf2bz/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+      },
+      {
+        "title":"梯形",
+        "description":"与三角形同理,增加width即可形成梯形.",
+        "author":"Lizus",
+        "author_url":"http://www.lizus.com",
+        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/rxh63r6x/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+      },
+      {
+        "title":"不规则多边形",
+        "description":"与三角形同理,通过调整border各边的宽度和是否透明即可形成不规则多边形.",
+        "author":"Lizus",
+        "author_url":"http://www.lizus.com",
+        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/kg7mgcry/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
       },
       {
         "title":"圆形",
@@ -17,11 +38,39 @@
         "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/m61511Lr/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
       },
       {
+        "title":"半圆",
+        "description":"利用border,border-radius形成完整的圆,再对其中相邻两边border使用透明即可.",
+        "author":"Lizus",
+        "author_url":"http://www.lizus.com",
+        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/bcweLwjq/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+      },
+      {
         "title":"四分之一圆",
-        "description":"利用border,border-radius形成完整的圆,再对其中三面border使用透明即可.",
+        "description":"利用border,border-radius形成完整的圆,再对其中三边border使用透明即可.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
         "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/1ykmo8zy/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+      },
+      {
+        "title":"四分之三圆",
+        "description":"利用border,border-radius形成完整的圆,再对其中一边border使用透明即可.",
+        "author":"Lizus",
+        "author_url":"http://www.lizus.com",
+        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/yabjLj5t/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+      },
+      {
+        "title":"椭圆形",
+        "description":"在圆形的基础上,通过调整width,height或padding形成椭圆.",
+        "author":"Lizus",
+        "author_url":"http://www.lizus.com",
+        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/4f29pfwd/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+      },
+      {
+        "title":"蛋形",
+        "description":"在圆形的基础上,通过使用不同的width,height及border-radius形成蛋形.",
+        "author":"Lizus",
+        "author_url":"http://www.lizus.com",
+        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/y5nubxjL/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
       }
     ]
   }
