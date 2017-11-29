@@ -7,7 +7,7 @@
         "description":"利用border的四个方向上的宽度和是否透明形成不同的三角形.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/es337u0v/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='182' scrolling='no' title='yPRpjL' src='//codepen.io/lizus/embed/yPRpjL/?height=182&theme-id=0&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/yPRpjL/'>yPRpjL</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"矩形",
