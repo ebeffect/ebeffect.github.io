@@ -7,56 +7,56 @@
         "description":"在基础四边形的基础上,通过tranform的skew()属性设置倾斜角度来实现.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/mfut1c9u/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='平行四边形' src='//codepen.io/lizus/embed/OOBwMR/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/OOBwMR/'>平行四边形</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"菱形",
         "description":"正方形转变成菱形就比较简单,使用transform的rotate()转个角度就好,其他角度的菱形需要先计算,然后使用before或after伪类来结合实现.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/7fmuh19s/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='菱形' src='//codepen.io/lizus/embed/LOgBGo/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/LOgBGo/'>菱形</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"五边形",
         "description":"使用一个等腰三角形和一个等腰梯形即可构成五边形.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"220\" src=\"https://jsfiddle.net/lizus/sg90y3qz/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='220' scrolling='no' title='五边形' src='//codepen.io/lizus/embed/bYmjpq/?height=220&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/bYmjpq/'>五边形</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"六边形",
         "description":"使用两个等腰梯形即可构成六边形.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"220\" src=\"https://jsfiddle.net/lizus/03xdw08s/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='199' scrolling='no' title='六边形' src='//codepen.io/lizus/embed/ZaqjOR/?height=199&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/ZaqjOR/'>六边形</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"五角星",
         "description":"仔细观察五角星的图案,我们可以在其中找到三个一模一样的三角形,于是可以根据三角形的制作方式,利用before,after伪类辅助,再加上旋转和定位来实现.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"230\" src=\"https://jsfiddle.net/lizus/ymtaas4k/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='238' scrolling='no' title='五角星' src='//codepen.io/lizus/embed/pdxZEa/?height=238&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/pdxZEa/'>五角星</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"六角星",
         "description":"跟五角星类似,不过六角星更简单,只需要两个等边三角形通过定位即可实现.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"170\" src=\"https://jsfiddle.net/lizus/deo0ztu2/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='164' scrolling='no' title='六角星' src='//codepen.io/lizus/embed/dZgjOb/?height=164&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/dZgjOb/'>六角星</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"心形",
         "description":"使用两个半圆加上一个正方形旋转45度即可形成.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"220\" src=\"https://jsfiddle.net/lizus/c3k3fu2z/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='222' scrolling='no' title='心形' src='//codepen.io/lizus/embed/pdxZNa/?height=222&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/pdxZNa/'>心形</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"无穷大符号",
         "description":"使用before,after旋转拼合而成.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"130\" src=\"https://jsfiddle.net/lizus/9w0g89gs/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='无穷符号' src='//codepen.io/lizus/embed/OOBwWW/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/OOBwWW/'>无穷符号</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       }
     ]
   }

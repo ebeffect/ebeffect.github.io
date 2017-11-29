@@ -7,70 +7,70 @@
         "description":"利用border的四个方向上的宽度和是否透明形成不同的三角形.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe height='182' scrolling='no' title='yPRpjL' src='//codepen.io/lizus/embed/yPRpjL/?height=182&theme-id=0&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/yPRpjL/'>yPRpjL</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
+        "content":"<iframe height='184' scrolling='no' title='各种三角形' src='//codepen.io/lizus/embed/yPRpjL/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/yPRpjL/'>各种三角形</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"矩形",
         "description":"利用border,width,height,padding来形成矩形.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/b9Lqf2bz/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='矩形' src='//codepen.io/lizus/embed/eePKxV/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/eePKxV/'>矩形</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"梯形",
         "description":"与三角形同理,增加width即可形成梯形.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/rxh63r6x/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='梯形' src='//codepen.io/lizus/embed/GOYGLg/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/GOYGLg/'>梯形</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"不规则多边形",
         "description":"与三角形同理,通过调整border各边的宽度和是否透明即可形成不规则多边形.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/kg7mgcry/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='不规则多边形' src='//codepen.io/lizus/embed/BmqVeK/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/BmqVeK/'>不规则多边形</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"圆形",
         "description":"利用border-radius形成圆角,再配合border,width,height及padding形成圆.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/m61511Lr/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='圆' src='//codepen.io/lizus/embed/yPREdP/?height=177&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/yPREdP/'>圆</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"半圆",
         "description":"利用border,border-radius形成完整的圆,再对其中相邻两边border使用透明即可.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/bcweLwjq/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='半圆' src='//codepen.io/lizus/embed/eePjOr/?height=167&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/eePjOr/'>半圆</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"四分之一圆",
         "description":"利用border,border-radius形成完整的圆,再对其中三边border使用透明即可.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/1ykmo8zy/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='四分之一圆' src='//codepen.io/lizus/embed/NwOBWp/?height=176&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/NwOBWp/'>四分之一圆</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"四分之三圆",
         "description":"利用border,border-radius形成完整的圆,再对其中一边border使用透明即可.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/yabjLj5t/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='四分之三圆' src='//codepen.io/lizus/embed/mqzjyJ/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/mqzjyJ/'>四分之三圆</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"椭圆形",
         "description":"在圆形的基础上,通过调整width,height或padding形成椭圆.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/4f29pfwd/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='椭圆' src='//codepen.io/lizus/embed/gXBjpP/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/gXBjpP/'>椭圆</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       },
       {
         "title":"蛋形",
         "description":"在圆形的基础上,通过使用不同的width,height及border-radius形成蛋形.",
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
-        "content":"<iframe width=\"100%\" height=\"200\" src=\"https://jsfiddle.net/lizus/y5nubxjL/embedded/result,css,html\" allowfullscreen=\"allowfullscreen\" frameborder=\"0\"></iframe>"
+        "content":"<iframe height='184' scrolling='no' title='蛋形' src='//codepen.io/lizus/embed/XzxBbP/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/XzxBbP/'>蛋形</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       }
     ]
   }
