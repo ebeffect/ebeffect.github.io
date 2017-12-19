@@ -57,6 +57,13 @@
         "author":"Lizus",
         "author_url":"http://www.lizus.com",
         "content":"<iframe height='184' scrolling='no' title='无穷符号' src='//codepen.io/lizus/embed/OOBwWW/?height=184&theme-id=light&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lizus/pen/OOBwWW/'>无穷符号</a> by Lizus (<a href='https://codepen.io/lizus'>@lizus</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
+      },
+      {
+        "title":"男性与女性符号",
+        "description":"利用border-radius形成圆环,before与after组成其他.",
+        "author":"笑笑",
+        "author_url":"",
+        "content":"<iframe height='265' scrolling='no' title='man and woman' src='//codepen.io/mttqyy/embed/KZVMrz/?height=265&theme-id=0&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/mttqyy/pen/KZVMrz/'>man and woman</a> by mttqyy (<a href='https://codepen.io/mttqyy'>@mttqyy</a>) on <a href='https://codepen.io'>CodePen</a>.</iframe>"
       }
     ]
   }
