@@ -204,6 +204,13 @@
         "author":"醉颜",
         "author_url":"",
         "content":"<iframe height='594' scrolling='no' title='2018-08' src='//codepen.io/BBBear/embed/KxavWK/?height=594&theme-id=0&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/BBBear/pen/KxavWK/'>2018-08</a> by BBBear (<a href='https://codepen.io/BBBear'>@BBBear</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
+      },
+      {
+        "title":"加载动画",
+        "description":"尝试使用animate的canvas代码结合css来制作动画，灰常适合设计师实现自己的动效",
+        "author":"啊啊啊阿花",
+        "author_url":"",
+        "content":"<iframe height='265' scrolling='no' title='gdRwXX' src='//codepen.io/flowerer/embed/gdRwXX/?height=265&theme-id=0&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/flowerer/pen/gdRwXX/'>gdRwXX</a> by kimiflower (<a href='https://codepen.io/flowerer'>@flowerer</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
       }
     ]
   }
