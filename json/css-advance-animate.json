@@ -1,0 +1,21 @@
+[
+  {
+    "title":"CSS高级形状动画",
+    "items":[
+      {
+        "title":"循环几何1",
+        "description":"网上看到的几何图形动画",
+        "author":"笑笑",
+        "author_url":"",
+        "content":"<iframe height='485' scrolling='no' title='循环几何1' src='//codepen.io/mttqyy/embed/qJWoMy/?height=485&theme-id=0&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/mttqyy/pen/qJWoMy/'>循环几何1</a> by mttqyy (<a href='https://codepen.io/mttqyy'>@mttqyy</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
+      },
+      {
+        "title":"循环几何2",
+        "description":"网上看到的几何图形动画",
+        "author":"笑笑",
+        "author_url":"",
+        "content":"<iframe height='265' scrolling='no' title='循环几何2' src='//codepen.io/mttqyy/embed/OBLvrP/?height=265&theme-id=0&default-tab=result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/mttqyy/pen/OBLvrP/'>循环几何2</a> by mttqyy (<a href='https://codepen.io/mttqyy'>@mttqyy</a>) on <a href='https://codepen.io'>CodePen</a>. </iframe>"
+      }
+    ]
+  }
+]
